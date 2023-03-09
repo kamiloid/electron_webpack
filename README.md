@@ -1,1 +1,2 @@
-# electron_webpack
+# app_base
+webpack app base
